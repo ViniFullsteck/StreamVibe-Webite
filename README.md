@@ -10,19 +10,18 @@
 <h3 align="center">Site SaaS UI/UX moderno</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 <a name="table">Índice</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🚀 [More](#more)
+1. 🤖 [Introdução]
+2. ⚙️ [Pilha de tecnologia]
+3. 🔋 [Características] 
+4. 🤸 [Início rápido] 
+5. 🚀 [Mais]
+## <a name="introduction">🤖 Introdução</a>
 
-## <a name="introduction">🤖 Introduction</a>
-
-StreamVibe is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles.
-Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or
-inspiration for future modern applications or websites in general.
+StreamVibe é um site SaaS de UI/UX moderno desenvolvido usando React.js e Tailwind CSS que exemplifica os princípios modernos de UI/UX.
+Seu design elegante, animações perfeitas e experiência geral do usuário estabelecem um alto padrão, servindo como referência ou
+inspiração para futuras aplicações modernas ou sites em geral.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -30,37 +29,36 @@ inspiration for future modern applications or websites in general.
 - React.js
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">🔋 Características</a>
 
-👉 **Stunning Sections**: Includes hero, features, pricing (monthly/yearly), FAQ, testimonials, and download software
-sections.
+👉 **Seções **: Inclui herói, recursos, preços (mensal/anual), perguntas frequentes, depoimentos e software de download
+Seções.
 
-👉 **Smooth Animations**: Complex CSS for fluid animations and eye-catching effects.
+👉 **Animações suaves**: CSS complexo para animações fluidas e efeitos atraentes.
 
-👉 **Cool CSS Gradients**: Beautiful gradient effects using CSS `before` and `after` pseudo-elements.
+👉 **Cool CSS Gradients**: Belos efeitos de gradiente usando pseudo-elementos CSS 'antes' e 'depois'.
 
-👉 **Seamless Navigation**: Offers a smooth user experience with intuitive navigation and scrolling.
+👉 **Navegação perfeita**: Oferece uma experiência de usuário suave com navegação e rolagem intuitivas.
 
-👉 **Optimized Performance**: Built for fast loading and an optimized experience.
+👉 **Desempenho otimizado**: Construído para carregamento rápido e uma experiência otimizada.
 
-👉 **Pixel Perfect Design**: Ensures flawless responsiveness across all devices and screen sizes.
+👉 **Design perfeito em pixels**: garante uma capacidade de resposta impecável em todos os dispositivos e tamanhos de tela.
 
-and many more, including code architecture and reusability
+e muito mais, incluindo arquitetura de código e reutilização
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
+Siga estas etapas para configurar o projeto localmente em sua máquina.
 
-**Prerequisites**
+**Pré-requisitos**
 
-Make sure you have the following installed on your machine:
+Certifique-se de ter o seguinte instalado em sua máquina:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
+**Clonando o repositório**
 ```bash
 git clone https://github.com/adrianhajdin/xora.git
 cd xora
@@ -80,4 +78,4 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [http://localhost:5173](http://localhost:5173) no navegador para visualizar o projeto.
