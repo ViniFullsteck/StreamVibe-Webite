@@ -78,4 +78,4 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) no navegador para visualizar o projeto.
+Abra [http://localhost:5173](http://localhost:5173) no navegador para visualizar o projeto.
